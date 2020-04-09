@@ -8,9 +8,7 @@
   },
   "author": "@mngyuan",
   "license": "MIT",
-  "devDependencies": {
-    "postcss-modules": "^1.5.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "parcel-bundler": "^1.12.4",
     "tailwindcss": "^1.2.0"
