@@ -1,0 +1,23 @@
+{
+  "name": "parcel-tailwind-test",
+  "version": "1.0.0",
+  "description": "test boilerplate for tailwind and parcel",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "@mngyuan",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss-modules": "^1.5.0"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "tailwindcss": "^1.2.0"
+  },
+  "postcss": {
+    "plugins": {
+      "tailwindcss": {}
+    }
+  }
+}

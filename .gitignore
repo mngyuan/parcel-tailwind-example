@@ -1,0 +1,7 @@
+.DS_Store
+# yarn.lock will cover us
+node_modules/
+
+# Parcel related files
+dist/
+.cache/
